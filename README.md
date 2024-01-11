@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mozaffariTabar
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on deno project
+- 🌱 I’m currently learning ML/AL
+- 💞️ I’m looking to collaborate on AL project
 - 📫 How to reach me mozaffaritabar.h@gmail.com
 
 <!---
